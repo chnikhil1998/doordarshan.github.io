@@ -1,0 +1,40 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="doordarshanvizag.com" resolutions="1x" timestamp="1481384198045">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3889120864" ref="index"/>
+    <file name="nomq_index.css" crc="3764682668" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u3890.php" crc="4289982366" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="5 new.jpg" crc="4039620242" ref="index"/>
+    <file name="11-u3518-fr.png" crc="400549448" ref="index"/>
+    <file name="6 new.jpg" crc="3966000006" ref="index"/>
+    <file name="1 new.jpg" crc="364433363" ref="index"/>
+    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="index"/>
+    <file name="1 new-u3299-fr.jpg" crc="464856517" ref="index"/>
+    <file name="1 new-u134-fr.jpg" crc="3974241333" ref="index"/>
+    <file name="landscape-nature-clouds-cloudy-u2513-fr.jpg" crc="488013779" ref="index"/>
+    <file name="landscape-nature-clouds-cloudy-u4122-fr.jpg" crc="286119134" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3798639122" seo="true" mt="1481383474679" redirect="true"/>
+</manifest>
